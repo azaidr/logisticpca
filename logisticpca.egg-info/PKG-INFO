@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: logisticpca
-Version: 0.1
-Summary: A Python implementation of PCA for binary data.
-Home-page: https://github.com/yourgithub/logisticpca
+Version: 0.1.7
+Summary: A Python implementation of Logistic PCA for binary data.
+Home-page: https://github.com/azaidr/logisticpca
 Author: Reda Abouzaid
 Author-email: azaidr00@gmail.com
 Classifier: Programming Language :: Python :: 3
